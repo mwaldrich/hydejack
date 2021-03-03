@@ -1,8 +1,6 @@
+# Mark Aldrich
 
-
-# Hydejack
-
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Under construction.
 
 
 

@@ -1,6 +1,10 @@
 lang:                  en
-title:                 Hydejack
+title:                 Mark Aldrich
 copyright:             © 2021. All rights reserved.
+
+author:
+  name: Mark Aldrich
+  email: mark@mwaldrich.io
 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
